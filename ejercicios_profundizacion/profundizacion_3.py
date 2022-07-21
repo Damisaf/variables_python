@@ -38,3 +38,8 @@ Cualquier duda con estos métodos pueden consultarla por el campus
 
 print('Ahora si! buena suerte')
 # Empezar aquí la resolución del ejercicio
+nombre = input("Ingrese su nombre: ")
+print("el nombre todo en minuscula es:", nombre.lower())
+print("el nombre todo en mayuscula es:", nombre.upper())
+print("solo la primera es mayuscula:", nombre.capitalize())
+
